@@ -11,3 +11,4 @@ var OmmitText=arr.join(" ")
 
 console.log(OmmitText)
 
+console.log("hello world")
